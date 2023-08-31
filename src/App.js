@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         boubaker ci cd pipeline
+         boubaker ci cd pipeline vv
         </a>
       </header>
     </div>
